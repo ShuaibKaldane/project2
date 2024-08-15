@@ -1,0 +1,13 @@
+.body{
+    background-color: rgb(24, 24, 24);
+    color: rgb(207, 207, 207);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container{
+    border: 2px solid #000;
+    
+    border-radius: 5px;
+}
